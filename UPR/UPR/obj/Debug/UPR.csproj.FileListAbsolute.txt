@@ -1,0 +1,10 @@
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\obj\Debug\UPR.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\obj\Debug\UPR.Form1.resources
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\obj\Debug\UPR.Properties.Resources.resources
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\obj\Debug\UPR.csproj.GenerateResource.cache
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\obj\Debug\UPR.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\bin\Debug\UPR.exe.config
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\bin\Debug\UPR.exe
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\bin\Debug\UPR.pdb
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\obj\Debug\UPR.exe
+C:\Users\1409-11\Desktop\Marin Preslav\UPR\UPR\obj\Debug\UPR.pdb
